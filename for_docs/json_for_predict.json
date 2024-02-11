@@ -1,9 +1,9 @@
 {
     "proto": "tcp",
     "country": "United States",
-    "addr_1": 3,
-    "addr_2": 230,
-    "num_timestamps": -0.14254389839832154,
-    "mean_timestamps": -1.181211330657851,
-    "median_timestamps": -0.30220108989415007
+    "addr_1": 74,
+    "addr_2": 125,
+    "num_timestamps": -0.139201495002814,
+    "mean_timestamps": -0.3797232168276022,
+    "median_timestamps": 0.7550865975948419
 }
