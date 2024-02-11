@@ -1,0 +1,9 @@
+addr,port,proto,num_timestamps,mean_timestamps,median_timestamps,country
+185.64.189.112,443.0,tcp,24.0,442573.0,7805.0,United Kingdom
+104.17.71.206,443.0,tcp,75.0,320558.0,1913.0,United States
+184.51.252.150,443.0,tcp,16.0,338247.0,1642.0,United States
+18.66.122.67,443.0,tcp,18.0,33888.0,18060.0,United States
+103.21.244.8,443.0,tcp,14.0,541101.0,4382.0,United States
+20.7.1.246,443.0,tcp,16.0,32679.0,4038.0,United States
+92.118.151.9,80.0,tcp,3.0,34932.0,34932.0,Bulgaria
+194.26.135.119,12432.0,tcp,407.0,19430.0,42.0,United Kingdom
